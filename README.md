@@ -17,6 +17,7 @@ This tutorial introduces you to OpenMP.
 3. reduction.c
 4. parallel_for.c
 5. scheduling.c
+6. Bug Hunt Challenge
 
 ## Program
 
